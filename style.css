@@ -1,0 +1,26 @@
+.orange-bg {
+	background-color: #fceae8;
+}
+
+.container {
+	margin-bottom: 30px;
+}
+
+.card {
+	box-shadow: 5px 5px 10px gray;
+	border: none;
+}
+
+.card-footer {
+	background: none;
+	border: none;
+}
+
+#subscribe {
+	height: 300px;
+	background-color: lightpink;
+}
+
+footer {
+	text-align: center;
+}
